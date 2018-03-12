@@ -10,7 +10,7 @@ const styles = {
 const App = () => (
   <div style={styles}>
     <Hello name="Kubernetes" />
-    <h2>Start editing to see some magic happen {"\u2728"}</h2>
+    <h2>Start cooking to see some magic happen {"\u2728"}</h2>
   </div>
 );
 
